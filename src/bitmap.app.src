@@ -1,0 +1,8 @@
+%% -*- mode: erlang -*-
+{application, bitmap,
+ [
+  {description, "Set of functions for operating on bitmaps (non-empty "
+   "bitstrings)."},
+  {vsn, "0.1"},
+  {modules, []}
+ ]}.
