@@ -1,0 +1,4 @@
+%% -*- mode: erlang -*-
+{build, "make"}.
+{test_path, "ebin"}.
+{test_path, "tests"}.
